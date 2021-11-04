@@ -1,2 +1,3 @@
 # fake-filler-config
-Webconnex Form Filler Config
+
+To heelp fill out Pages for testing we use; https://fakefiller.com/ please see repo for shared config file.
